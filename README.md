@@ -40,21 +40,29 @@ https://developer.mozilla.org/ja/docs/Web/HTML/Reference/Elements/meta/name/them
 
 - before
 
-`<link rel="shortcut icon" href="/assets/favicon.ico" />`
+```html
+<link rel="shortcut icon" href="/assets/favicon.ico" />
+```
 
 - after
 
-`<link rel="icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon" sizes="any" />`
+```html
+<link rel="icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon" sizes="any" />
+```
 
 **5行目**
 
 - before
 
-`<link rel="manifest" href="/assets/site.webmanifest" />`
+```html
+<link rel="manifest" href="/assets/site.webmanifest" />
+```
 
 - after
 
-`<link rel="manifest" href="/assets/manifest.json" />`
+```html
+<link rel="manifest" href="/assets/manifest.json" />
+```
 
 ```html
 <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96" />
