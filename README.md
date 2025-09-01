@@ -26,6 +26,8 @@ https://developer.mozilla.org/ja/docs/Web/HTML/Reference/Elements/meta/name/them
 
 #### 編集前
 
+**全体**
+
 ```html
 <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96" />
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
@@ -63,6 +65,8 @@ https://developer.mozilla.org/ja/docs/Web/HTML/Reference/Elements/meta/name/them
 ```html
 <link rel="manifest" href="/assets/manifest.json" />
 ```
+
+**全体**
 
 ```html
 <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96" />
