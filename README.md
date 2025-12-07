@@ -1,5 +1,11 @@
 # HTML Meta Settings
 
+# OGB Check Tool
+
+https://ogp.buta3.net/
+
+# Information
+
 ## theme-color
 
 SafariやAndroid版のChromeのアドレスバーの色を変えたりする。
